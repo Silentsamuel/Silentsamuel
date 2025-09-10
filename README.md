@@ -1,6 +1,6 @@
 # 👋 Olá, Mundo! Eu sou o Sam 
 
-**Desenvolvedor em Formação | Apaixonado por Tecnologia | Eterno Aprendiz**
+**Desenvolvedor em Formação | Eterno Aprendiz**
 
 - 🔭 Atualmente estudo linguagens de programação e desenvolvimento de games
 - 🌱 Foco em: **HTML, CSS, JavaScript, Python e GML (Game Maker Language)**

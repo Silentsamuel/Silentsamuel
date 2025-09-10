@@ -62,9 +62,9 @@
 *"O único limite para minha realização amanhã serão as minhas dúvidas de hoje." - Franklin Roosevelt*
 
 ---
-
+<!--
 <div align="center">
 
 ![Snake animation](https://github.com/silentsamuel/silentsamuel/blob/output/github-contribution-grid-snake.svg)
 
-</div>
+</div>  - - >

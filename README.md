@@ -1,37 +1,68 @@
-# *Olá, Mundo eu sou Sam*
+👋 Olá, Mundo! Eu sou o Sam
 
-- 🔭 Hoje estudo, linguagens de *programação*
-- 🌱 Atualmente estou, estudando *HTML, CSS, Python*
-- 🫴🏾 Eterno Aprendiz, ser ...
+Desenvolvedor em Formação | Apaixonado por Tecnologia | Eterno Aprendiz
+
+· 🔭 Atualmente estudo linguagens de programação e desenvolvimento de games
+· 🌱 Foco em: HTML, CSS, JavaScript, Python e GML (Game Maker Language)
+· 🫴🏾 Acredito que o aprendizado contínuo é a chave para evolução
+
+🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <!-- <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
+  <img align="center" alt="GMS2" height="30" width="40" src="https://img.icons8.com/color/48/gamemaker.png" alt="gamemaker">
 </div>
 
-## Tecnologias
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) -->
+📊 Estatísticas do GitHub
 
-![Meu Avatar](https://via.placeholder.com/150)
-
-## Minhas Estatísticas
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=silentsamuel&show_icons=true&theme=radical)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=silentsamuel&layout=compact&theme=radical)
-
-<!--
-##
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">
+  <a href="https://github.com/silentsamuel">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silentsamuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentsamuel&layout=compact&langs_count=7&theme=radical"/>
+  </a>
 </div>
 
--->
+🎮 Estudando Atualmente
+
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white https://img.shields.io/badge/GameMaker_Studio_2-000000?style=for-the-badge&logo=gamemaker&logoColor=white https://img.shields.io/badge/GML_(GameMaker_Language)-8A2BE2?style=for-the-badge
+
+Foco atual:
+
+· Desenvolvimento Web (HTML, CSS, JavaScript)
+· Programação em Python para automação e análise de dados
+· Game development com Game Maker Studio 2 e GML
+· Lógica de programação e algoritmos
+
+💬 Vamos conversar?
+
+📧 Prefiro contato pelo GitHub - Sinta-se à vontade para comentar em meus repositórios ou abrir uma issue se quiser conversar sobre projetos, tirar dúvidas ou colaborar!
+
+Retorno todas as mensagens assim que possível.
+
+---
+
+<div align="center">
+
+https://komarev.com/ghpvc/?username=silentsamuel&color=blueviolet&style=flat
+
+</div>
+
+📌 Próximos Objetivos
+
+· Desenvolver um jogo completo com Game Maker Studio 2
+· Criar um portfólio web responsivo
+· Contribuir em projetos open source
+· Aprender React.js
+
+"O único limite para minha realização amanhã serão as minhas dúvidas de hoje." - Franklin Roosevelt
+
+---
+
+<div align="center">
+
+https://github.com/silentsamuel/silentsamuel/blob/output/github-contribution-grid-snake.svg
+
+</div>

@@ -25,6 +25,31 @@ Atualmente estou focando em criar jogos do zero, cuidando da arte ao som:
 * **Quad o quadrado**  - Projeto Android em desenvolvimento (Em Breve) 
 * **James Bond Retro** - Projeto Game Maker em desenvolvimento (Em breve). 🔫
 
+## 🎨 Portfólio de Arte & Som
+
+Além do código, eu dedico meu tempo criando a identidade visual e sonora dos meus projetos.
+
+<table border="0">
+  <tr>
+    <td width="50%">
+      <h3>👾 Pixel Art</h3>
+      <p>Desenvolvo meus próprios sprites e cenários, focando no estilo retro.</p>
+      <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/principal/NOME_DO_SEU_SPRITE.png" width="100%">
+    </td>
+    <td width="50%">
+      <h3>🎵 Produção Sonora</h3>
+      <p>Estudo composição e síntese sonora utilizando o <b>LMMS</b> para criar trilhas que combinam com a gameplay.</p>
+      <img src="https://img.shields.io/badge/Audio-LMMS-green?style=for-the-badge&logo=music" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 📺 Demonstração de Gameplay (GIF)
+<div align="center">
+  <p><b>Pong Pong - Game Maker Studio 2</b></p>
+  <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/refs/heads/main/Anima%C3%A7%C3%A3o_PONG_PONG.gif" width="400px" alt="Gameplay do Pong Pong">
+</div>
+
 ## 📊 Estatísticas do GitHub
 
 <div align="center">

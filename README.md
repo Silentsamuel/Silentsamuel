@@ -34,7 +34,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
     <td width="50%">
       <h3>👾 Pixel Art</h3>
       <p>Desenvolvo meus próprios sprites e cenários, focando no estilo retro.</p>
-      <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/principal/NOME_DO_SEU_SPRITE.png" width="100%">
+      <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/refs/heads/main/Meu_boneco_redimencionado.png" width="100%">
     </td>
     <td width="50%">
       <h3>🎵 Produção Sonora</h3>

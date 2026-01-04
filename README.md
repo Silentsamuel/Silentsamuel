@@ -52,12 +52,21 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
 
 ## 📊 Estatísticas do GitHub
 
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/silentsamuel">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silentsamuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentsamuel&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/Silentsamuel">
+    <img
+      height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api?username=Silentsamuel&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
+    />
+    <img
+      height="180em"
+      src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Silentsamuel&layout=compact&langs_count=7&theme=radical"
+    />
   </a>
 </div>
+
 
 ## 🎨 Skills Criativas
 

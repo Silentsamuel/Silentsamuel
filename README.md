@@ -50,7 +50,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
   <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/refs/heads/main/Anima%C3%A7%C3%A3o_PONG_PONG.gif" width="400px" alt="Gameplay do Pong Pong">
 </div>
 
-## 📊 Estatísticas do GitHub
+<!--## 📊 Estatísticas do GitHub
 
 ## 📊 Estatísticas do GitHub
 
@@ -66,7 +66,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
     />
   </a>
 </div>
-
+-->
 
 ## 🎨 Skills Criativas
 

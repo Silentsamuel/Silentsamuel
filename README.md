@@ -34,7 +34,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
     <td width="50%">
       <h3>👾 Pixel Art</h3>
       <p>Desenvolvo meus próprios sprites e cenários, focando no estilo retro.</p>
-      <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/refs/heads/main/Meu_boneco_redimencionado.png" width="100%">
+    <!--  <img src="https://raw.githubusercontent.com/Silentsamuel/imagem_Game_Maker_Studio_2/refs/heads/main/Meu_boneco_redimencionado.png" width="100%"> -->
     </td>
     <td width="50%">
       <h3>🎵 Produção Sonora</h3>
@@ -70,7 +70,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
 
 ## 🎨 Skills Criativas
 
-<! --![Pixel Art](https://img.shields.io/badge/Pixel_Art-Esprite_/_LibreSprite-orange?style=for-the-badge)-->
+![Pixel Art](https://img.shields.io/badge/Pixel_Art-Esprite_/_LibreSprite-orange?style=for-the-badge)
 ![LMMS](https://img.shields.io/badge/Audio-LMMS-green?style=for-the-badge)
 ![GameMaker](https://img.shields.io/badge/GameMaker_Studio_2-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 

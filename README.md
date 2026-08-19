@@ -70,7 +70,7 @@ Além do código, eu dedico meu tempo criando a identidade visual e sonora dos m
 
 ## 🎨 Skills Criativas
 
-![Pixel Art](https://img.shields.io/badge/Pixel_Art-Esprite_/_LibreSprite-orange?style=for-the-badge)
+<! --![Pixel Art](https://img.shields.io/badge/Pixel_Art-Esprite_/_LibreSprite-orange?style=for-the-badge)-->
 ![LMMS](https://img.shields.io/badge/Audio-LMMS-green?style=for-the-badge)
 ![GameMaker](https://img.shields.io/badge/GameMaker_Studio_2-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 
